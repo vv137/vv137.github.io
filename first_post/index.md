@@ -1,4 +1,4 @@
-# First post
+# First Post
 
 
 Hello, world!
