@@ -1,4 +1,4 @@
-# Second Post
+# 4-Potential
 
 
 # Scalar and Vector Potentials
