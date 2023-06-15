@@ -1,4 +1,4 @@
-# Matrix product wave function of the ground state and elementary excitations in the spin-$\frac{1}{2}$ chain
+# Construction of variational matrix product states for the Heisenberg spin-1 chain
 
 
 # Abstact
