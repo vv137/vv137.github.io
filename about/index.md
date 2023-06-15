@@ -16,6 +16,9 @@ Computational Biophysics Laboratory, Department of Physics, Sungkyunkwan Univers
 - Post-translational modification
 - Protein folding
 
+# Experience
+
+
 # Education
 
 ## Ph.D in Physics
@@ -30,4 +33,11 @@ Sungkynkwan University, Korea
 
 2016/03 - 2019/08
 
+# Skills
+
+- C
+- C++
+- CUDA
+- Python
+- Rust
 
