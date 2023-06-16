@@ -9,15 +9,6 @@ Minsoo Kim (김민수)
 
 Computational Biophysics Laboratory, Department of Physics, Sungkyunkwan University, Suwon, Korea.
 
-# Research Interest
-
-- Molecular dynamics simulation
-- Intrinsically disordered proteins (IDP)
-- Post-translational modification
-- Protein folding
-
-# Experience
-
 
 # Education
 
@@ -32,6 +23,18 @@ Sungkyunkwan University, Korea
 Sungkynkwan University, Korea
 
 2016/03 - 2019/08
+
+
+# Research Interest
+
+- Molecular dynamics simulation
+- Intrinsically disordered proteins (IDP)
+- Post-translational modification
+- Protein folding
+
+
+# Experience
+
 
 # Skills
 
