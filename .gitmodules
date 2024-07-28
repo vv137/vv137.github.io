@@ -1,0 +1,3 @@
+[submodule "themese/Juwe"]
+	path = themese/Juwe
+	url = https://github.com/vv137/hugo-Juwe.git
